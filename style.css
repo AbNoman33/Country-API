@@ -1,0 +1,28 @@
+#data_1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+    text-align: center;
+}
+
+.data_2 {
+    color: white;
+    padding: 10px;
+    border-radius: 2px;
+    background-color: black;
+}
+
+.country {
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+.image {
+    height: 3in;
+    width: 4in;
+}
+
+.countryN {
+    color: bisque;
+}
